@@ -181,6 +181,7 @@ The dashboard currently includes the following sections:
 
 ```bash
 git clone https://github.com/Monu26052006/India-census-dashboard.git
+cd India-census-dashboard
 ```
 
 ## 2. Install dependencies
