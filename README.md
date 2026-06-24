@@ -95,20 +95,7 @@ Users can directly search and inspect a district from the dataset.
 
 Two states can be compared using the selected primary metric.
 
-## 12. Religion Comparison
-
-The dashboard also includes religion-based state comparison using major religion columns like:
-
-* Hindus
-* Muslims
-* Christians
-* Sikhs
-* Buddhists
-* Jains
-
-This can be used to compare either **raw counts** or **percentage share**.
-
-## 13. Download Filtered Data
+## 12. Download Filtered Data
 
 The filtered dataset currently being used in the dashboard can be downloaded as a CSV file.
 
